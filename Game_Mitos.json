@@ -14,15 +14,11 @@
     "cardBack": "https://devastation-store-chile.myshopify.com/cdn/shop/products/myl-000-450x643_528f5e59-ba9a-4255-a561-e214b8a000ea_large.png?v=1607044413"
   },
   "deckBuilding": {
-    "mainFilters": [
-      "1",
-      "2",
-      "3"
-    ],
+    "mainFilters": [],
     "formats": [
       {
         "title": "PB",
-        "gameplay": "1",
+        "gameplay": "PB",
         "customCategories": []
       }
     ]
@@ -32,28 +28,26 @@
       "mulligan": {
         "info": "asdsad",
         "startingHandSize": "5",
-        "drawNewHand": false,
+        "drawNewHand": true,
         "putSelectionAtBottom": false,
         "drawNewSelectedCards": false
       },
       "newTurn": {
         "drawOnStart": false,
         "sharedTurn": false,
-        "firstPlayerTokenName": "Carta",
+        "firstPlayerTokenName": "",
         "drawPerTurn": 1
       },
       "defaultNotes": "",
       "tokens": [],
       "countersStartingValues": [
-        "1"
+        "0"
       ],
       "hideFacedDownCards": true,
       "sections": {
         "customSections": [
           "Castillo",
-          "Campo",
-          "Oro",
-          "Trash"
+          "Campo"
         ],
         "layout": {
           "direction": "row",
@@ -71,20 +65,36 @@
         },
         "categoriesAlreadyOnBoard": [],
         "autoPlayFromHand": {
-          "Aliados": "Campo"
+          "Aliados": "Stack"
         },
         "autoPlayFromStack": {
-          "Mazo Castillo": ""
+          "Aliados": "Stack"
         },
         "sectionsDict": {
           "Campo": {
             "title": "Campo",
             "isHidden": "no",
-            "height": "SMALL",
+            "height": "MEDIUM",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Castillo": {
+            "title": "Castillo",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "END",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
             "displayedTitle": "",
             "noQuickActions": false,
             "enterTapped": false,
