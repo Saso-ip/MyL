@@ -65,10 +65,10 @@
         },
         "categoriesAlreadyOnBoard": [],
         "autoPlayFromHand": {
-          "Aliados": "Stack"
+          "Aliados": "Main"
         },
         "autoPlayFromStack": {
-          "Aliados": "Stack"
+          "Aliados": "Main"
         },
         "sectionsDict": {}
       }
