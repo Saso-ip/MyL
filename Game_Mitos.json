@@ -64,46 +64,9 @@
           ]
         },
         "categoriesAlreadyOnBoard": [],
-        "autoPlayFromHand": {
-          "Aliados": "Stack"
-        },
-        "autoPlayFromStack": {
-          "Aliados": "Stack"
-        },
-        "sectionsDict": {
-          "Campo": {
-            "title": "Campo",
-            "isHidden": "no",
-            "height": "MEDIUM",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": true,
-            "isHorizontalAllowed": false,
-            "displayedTitle": "",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "Castillo": {
-            "title": "Castillo",
-            "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "END",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          }
-        }
+        "autoPlayFromHand": {},
+        "autoPlayFromStack": {},
+        "sectionsDict": {}
       }
     }
   }
