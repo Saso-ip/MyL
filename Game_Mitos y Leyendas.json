@@ -8,7 +8,7 @@
   "customHelp": "",
   "cardRotation": 45,
   "cards": {
-    "dataUrl": "https://github.com/Saso-ip/MyL/blob/main/CardList%20(2).json",
+    "dataUrl": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/CardList%20(2).json",
     "cardBack": "https://devastation-store-chile.myshopify.com/cdn/shop/products/myl-000-450x643_528f5e59-ba9a-4255-a561-e214b8a000ea_large.png?v=1607044413"
   },
   "deckBuilding": {
