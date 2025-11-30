@@ -1,4 +1,4 @@
-{
+-{
   "name": "MyL2",
   "menuBackgroundImage": "https://cdnx.jumpseller.com/gaming-place/image/40639787/myl_wallpaper.jpg?1696884054",
   "defaultRessources": {
@@ -21,7 +21,7 @@
     ],
     "formats": [
       {
-        "title": "Dominio de Ra",
+        "title": "PB",
         "gameplay": "1",
         "customCategories": []
       }
@@ -30,227 +30,68 @@
   "gameplay": {
     "Classic": {
       "mulligan": {
-        "info": "If you have no Basic Pokemon in hand, you can draw a new hand. Your opponent draw a card for each extra time you drew a new hand compared to him.",
-        "startingHandSize": 7,
-        "drawNewHand": true,
+        "info": "asdsad",
+        "startingHandSize": "5",
+        "drawNewHand": false,
         "putSelectionAtBottom": false,
         "drawNewSelectedCards": false
       },
       "newTurn": {
         "drawOnStart": false,
         "sharedTurn": false,
-        "firstPlayerTokenName": "",
+        "firstPlayerTokenName": "Carta",
         "drawPerTurn": 1
       },
       "defaultNotes": "",
       "tokens": [],
-      "draggableTokens": [
-        {
-          "id": "Asleep",
-          "name": "Asleep token",
-          "image": "https://valcur.github.io/TCG-Arena-Pokemon/Images/Tokens/Asleep.png"
-        },
-        {
-          "id": "Burned",
-          "name": "Burned token",
-          "image": "https://valcur.github.io/TCG-Arena-Pokemon/Images/Tokens/Burned.png"
-        },
-        {
-          "id": "Fainted",
-          "name": "Fainted token",
-          "image": "https://valcur.github.io/TCG-Arena-Pokemon/Images/Tokens/Fainted.png"
-        },
-        {
-          "id": "Frozen",
-          "name": "Frozen token",
-          "image": "https://valcur.github.io/TCG-Arena-Pokemon/Images/Tokens/Frozen.png"
-        },
-        {
-          "id": "Paralysis",
-          "name": "Paralysis token",
-          "image": "https://valcur.github.io/TCG-Arena-Pokemon/Images/Tokens/Paralysis.png"
-        },
-        {
-          "id": "Poisoned",
-          "name": "Poisoned token",
-          "image": "https://valcur.github.io/TCG-Arena-Pokemon/Images/Tokens/Poisoned.png"
-        },
-        {
-          "id": "BadPoisoned",
-          "name": "Badly poisoned token",
-          "image": "https://valcur.github.io/TCG-Arena-Pokemon/Images/Tokens/BadPoisoned.png"
-        }
-      ],
       "countersStartingValues": [
-        0
+        "1"
       ],
       "hideFacedDownCards": true,
       "sections": {
         "customSections": [
-          "Bench",
-          "Active",
-          "Stadium",
-          "Prize_1",
-          "Prize_2"
+          "Castillo",
+          "Campo",
+          "Oro",
+          "Trash"
         ],
         "layout": {
           "direction": "row",
           "isSymetricalForOpponents": true,
           "content": [
             {
-              "direction": "column",
-              "style": false,
-              "content": [
-                {
-                  "direction": "row",
-                  "style": false,
-                  "content": [
-                    {
-                      "section": "Stadium",
-                      "style": {
-                        "width": "15vh"
-                      }
-                    },
-                    {
-                      "section": "Active",
-                      "style": {
-                        "marginRight": "20vh",
-                        "marginLeft": "5vh"
-                      }
-                    }
-                  ],
-                  "isSymetricalForOpponents": true
-                },
-                {
-                  "section": "Bench",
-                  "style": {
-                    "marginTop": "0.35rem"
-                  }
-                }
-              ],
-              "isSymetricalForOpponents": false
+              "section": "Campo",
+              "style": false
             },
             {
-              "direction": "column",
-              "style": {
-                "width": "22vh",
-                "justifyContent": "start"
-              },
-              "content": [
-                {
-                  "section": "Prize_1",
-                  "style": false
-                },
-                {
-                  "section": "Prize_2",
-                  "style": false
-                }
-              ],
-              "isSymetricalForOpponents": false
+              "section": "Mazo Castillo",
+              "style": false
             }
           ]
         },
         "categoriesAlreadyOnBoard": [],
         "autoPlayFromHand": {
-          "Trainer - Stadium": "Stadium",
-          "Trainer - Supporter": "Stack",
-          "Trainer - Item": "Stack",
-          "Trainer": "Stack",
-          "Pokemon": "Bench",
-          "Energy": "GROUP",
-          "Energy - Special": "GROUP",
-          "Trainer - Pokemon tool": "GROUP"
+          "Aliados": "Campo"
         },
         "autoPlayFromStack": {
-          "Trainer - Stadium": "Stadium",
-          "Trainer - Supporter": "Discard",
-          "Trainer - Item": "Discard",
-          "Trainer": "Discard",
-          "Pokemon": "Bench",
-          "Energy": "GROUP",
-          "Energy - Special": "GROUP",
-          "Trainer - Pokemon tool": "GROUP"
+          "Mazo Castillo": ""
         },
         "sectionsDict": {
-          "Bench": {
-            "title": "Bench",
+          "Campo": {
+            "title": "Campo",
             "isHidden": "no",
             "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
-            "noAutoPayTo": "true",
+            "noAutoPayTo": true,
             "isHorizontalAllowed": false,
-            "displayedTitle": "",
-            "enterTapped": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": true,
-            "showHiddenCardInHistory": false,
-            "noQuickActions": true,
-            "enterSpun": false
-          },
-          "Prize_1": {
-            "title": "Prize_1",
-            "isHidden": "yes",
-            "height": "SMALL",
-            "alignment": "END",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "Prize 1-3",
-            "noQuickActions": true,
-            "enterTapped": false,
-            "isGroupForbidden": true,
-            "keepTappedNewTurn": true,
-            "showHiddenCardInHistory": false,
-            "enterSpun": false
-          },
-          "Prize_2": {
-            "title": "Prize_2",
-            "isHidden": "yes",
-            "height": "SMALL",
-            "alignment": "END",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "Prize 4-6",
-            "noQuickActions": true,
-            "enterTapped": false,
-            "isGroupForbidden": true,
-            "keepTappedNewTurn": true,
-            "showHiddenCardInHistory": false,
-            "enterSpun": false
-          },
-          "Active": {
-            "title": "Active",
-            "isHidden": "no",
-            "height": "MEDIUM",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "isHorizontalAllowed": true,
             "displayedTitle": "",
             "noQuickActions": false,
             "enterTapped": false,
+            "enterSpun": false,
             "isGroupForbidden": false,
-            "keepTappedNewTurn": true,
-            "showHiddenCardInHistory": false,
-            "enterSpun": false
-          },
-          "Stadium": {
-            "title": "Stadium",
-            "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "",
-            "noQuickActions": true,
-            "enterTapped": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": true,
-            "showHiddenCardInHistory": false,
-            "enterSpun": false
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
           }
         }
       }
