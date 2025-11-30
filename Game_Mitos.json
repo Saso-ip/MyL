@@ -31,24 +31,72 @@
       "hideFacedDownCards": true,
       "sections": {
         "customSections": [
-          "Main",
-          "Items"
+          "Ataque",
+          "Defensa",
+          "Apoyo",
+          "Oro",
+          "Roro",
+          "Cementerio",
+          "Destierro"
         ],
         "layout": {
-          "direction": "column",
+          "direction": "row",
           "content": [
             {
-              "section": "Main"
-            },
-            {
-              "direction": "row",
+              "direction": "column",
+              "style": false,
               "content": [
                 {
-                  "section": "Items"
+                  "section": "Cementerio",
+                  "style": false
+                },
+                {
+                  "section": "Destierro",
+                  "style": false
                 }
-              ]
+              ],
+              "isSymetricalForOpponents": false
+            },
+            {
+              "direction": "column",
+              "style": false,
+              "content": [
+                {
+                  "section": "Oro Pagado",
+                  "style": false
+                },
+                {
+                  "section": "Castillo",
+                  "style": false
+                },
+                {
+                  "section": "Reserva Oro",
+                  "style": false
+                }
+              ],
+              "isSymetricalForOpponents": false
+            },
+            {
+              "direction": "column",
+              "style": false,
+              "content": [
+                {
+                  "section": "Ataque",
+                  "style": false
+                },
+                {
+                  "section": "Defensa",
+                  "style": false
+                },
+                {
+                  "section": "Apoyo",
+                  "style": false
+                }
+              ],
+              "isSymetricalForOpponents": false
             }
-          ]
+          ],
+          "isSymetricalForOpponents": false
         },
         "autoPlayFromHand": {
           "Aliados": "Main"
@@ -136,23 +184,6 @@
             "isGroupForbidden": true,
             "noAutoPayTo": true,
             "displayedTitle": "Removed",
-            "opponentAlignment": false,
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "ExileHidden": {
-            "isDefaultSection": true,
-            "title": "ExileHidden",
-            "isHidden": "yes",
-            "height": "DEFAULT",
-            "alignment": "NONE",
-            "isHorizontalAllowed": false,
-            "isGroupForbidden": true,
-            "noAutoPayTo": true,
-            "displayedTitle": "Removed hidden",
             "opponentAlignment": false,
             "noQuickActions": false,
             "enterTapped": false,
