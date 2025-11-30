@@ -12,8 +12,18 @@
     "cardBack": "https://devastation-store-chile.myshopify.com/cdn/shop/products/myl-000-450x643_528f5e59-ba9a-4255-a561-e214b8a000ea_large.png?v=1607044413"
   },
   "deckBuilding": {
-    "mainFilters": [],
-    "formats": []
+    "mainFilters": [
+      "1",
+      "2",
+      "3"
+    ],
+    "formats": [
+      {
+        "title": "Dominio de Ra",
+        "gameplay": "1",
+        "customCategories": []
+      }
+    ]
   },
   "gameplay": {
     "Classic": {
@@ -48,24 +58,7 @@
         "categoriesAlreadyOnBoard": [],
         "autoPlayFromHand": {},
         "autoPlayFromStack": {},
-        "sectionsDict": {
-          "Mana": {
-            "title": "Mana",
-            "isHidden": "yes",
-            "height": "SMALL",
-            "alignment": "START",
-            "opponentAlignment": false,
-            "noAutoPayTo": "true",
-            "isHorizontalAllowed": false,
-            "displayedTitle": "Ressources",
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false,
-            "noQuickActions": false
-          }
-        }
+        "sectionsDict": {}
       }
     }
   }
