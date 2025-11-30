@@ -5,14 +5,14 @@
     "face": {
       "front": {
         "name": "Amon",
-        "type": false,
+        "type": "Aliados",
         "cost": "4",
         "image": "https://static.wikia.nocookie.net/myl-tcg/images/6/6d/AMON.jpg/revision/latest/scale-to-width-down/1000?cb=20200828180634&path-prefix=es",
         "isHorizontal": false
       }
     },
     "name": "1/236",
-    "type": false,
+    "type": "Aliados",
     "cost": "4"
   }
 }
