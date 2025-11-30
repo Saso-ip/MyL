@@ -1,0 +1,72 @@
+{
+  "name": "Mitos y Leyendas",
+  "menuBackgroundImage": "",
+  "defaultRessources": {
+    "backgrounds": [],
+    "decksUrl": ""
+  },
+  "customHelp": "",
+  "cardRotation": 45,
+  "cards": {
+    "dataUrl": "https://github.com/Saso-ip/MyL/blob/main/CardList%20(2).json",
+    "cardBack": "https://devastation-store-chile.myshopify.com/cdn/shop/products/myl-000-450x643_528f5e59-ba9a-4255-a561-e214b8a000ea_large.png?v=1607044413"
+  },
+  "deckBuilding": {
+    "mainFilters": [],
+    "formats": []
+  },
+  "gameplay": {
+    "Classic": {
+      "mulligan": {
+        "info": "",
+        "startingHandSize": "5",
+        "drawNewHand": true,
+        "putSelectionAtBottom": false,
+        "drawNewSelectedCards": false
+      },
+      "newTurn": {
+        "drawOnStart": false,
+        "sharedTurn": false,
+        "firstPlayerTokenName": "",
+        "drawPerTurn": 1
+      },
+      "defaultNotes": "",
+      "tokens": [],
+      "countersStartingValues": [
+        0
+      ],
+      "hideFacedDownCards": false,
+      "sections": {
+        "customSections": [
+          "Mana"
+        ],
+        "layout": {
+          "direction": "row",
+          "isSymetricalForOpponents": false,
+          "content": []
+        },
+        "categoriesAlreadyOnBoard": [],
+        "autoPlayFromHand": {},
+        "autoPlayFromStack": {},
+        "sectionsDict": {
+          "Mana": {
+            "title": "Mana",
+            "isHidden": "yes",
+            "height": "SMALL",
+            "alignment": "START",
+            "opponentAlignment": false,
+            "noAutoPayTo": "true",
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Ressources",
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false,
+            "noQuickActions": false
+          }
+        }
+      }
+    }
+  }
+}
