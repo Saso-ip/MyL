@@ -15,5 +15,22 @@
     "type": "Aliado",
     "cost": 0,
     "Espada Sagrada": "1"
+  },
+  "2": {
+    "id": "2",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Reina Guinivere",
+        "type": "Aliado",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Reina%20Guinivere.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Reina Guinivere",
+    "type": "Aliado",
+    "cost": 0,
+    "Espada Sagrada": "2"
   }
 }
