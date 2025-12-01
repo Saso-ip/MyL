@@ -45,25 +45,21 @@
             {
               "direction": "column",
               "style": {
-                "marginTop": "1vh",
-                "marginBottom": "10vh",
-                "marginLeft": "5vh",
-                "marginRight": "10vh",
-                "width": "15vw",
-                "height": "20vh"
+                "marginTop": "3vh",
+                "marginLeft": "2vh"
               },
               "content": [
                 {
                   "section": "Cementerio",
                   "style": {
-                    "width": "50%",
+                    "width": "10%",
                     "height": "40%"
                   }
                 },
                 {
                   "section": "Destierro",
                   "style": {
-                    "width": "50%",
+                    "width": "10%",
                     "height": "40%"
                   }
                 }
@@ -74,31 +70,20 @@
               "direction": "column",
               "style": {
                 "marginTop": "0vh",
-                "marginBottom": "20vh",
-                "marginLeft": "-10vh",
-                "marginRight": "10vh",
-                "width": "20vw",
-                "height": "20vh"
+                "marginLeft": "-80vh"
               },
               "content": [
                 {
                   "section": "Orop",
                   "style": {
-                    "width": "7vw",
-                    "height": "60vh"
-                  }
-                },
-                {
-                  "section": "Castillo",
-                  "style": {
-                    "width": "7vw",
+                    "width": "5vw",
                     "height": "60vh"
                   }
                 },
                 {
                   "section": "Roro",
                   "style": {
-                    "width": "7vw",
+                    "width": "5vw",
                     "height": "60vh"
                   }
                 }
@@ -108,8 +93,8 @@
             {
               "direction": "column",
               "style": {
-                "marginTop": "0vh",
-                "marginLeft": "-20vh",
+                "marginTop": "-5vh",
+                "marginLeft": "-80vh",
                 "marginRight": "0",
                 "marginBottom": "0"
               },
@@ -117,21 +102,21 @@
                 {
                   "section": "Ataque",
                   "style": {
-                    "width": "60vh",
+                    "width": "70vh",
                     "height": "2vh"
                   }
                 },
                 {
                   "section": "Defensa",
                   "style": {
-                    "width": "60vh",
+                    "width": "70vh",
                     "height": "2vh"
                   }
                 },
                 {
                   "section": "Apoyo",
                   "style": {
-                    "width": "60vh",
+                    "width": "70vh",
                     "height": "2vh"
                   }
                 }
@@ -146,22 +131,6 @@
         },
         "autoPlayFromStack": {},
         "sectionsDict": {
-          "Castillo": {
-            "title": "Castillo",
-            "isHidden": "yes",
-            "height": "MEDIUM",
-            "alignment": "START",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
           "Destierro": {
             "title": "Destierro",
             "isHidden": "no",
