@@ -678,5 +678,3337 @@
   "type": "Aliado",
   "cost": 0,
   "Espada Sagrada": "40"
-  }  
+  },  
+"41": {
+  "id": "41",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Plaga",
+      "type": "Talismán",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Plaga.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Plaga",
+  "type": "Talismán",
+  "cost": 0,
+  "Espada Sagrada": "41"
+},
+"42": {
+  "id": "42",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "La Traición de Lancelot",
+      "type": "Talismán",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/La%20Traición%20de%20Lancelot.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "La Traición de Lancelot",
+  "type": "Talismán",
+  "cost": 0,
+  "Espada Sagrada": "42"
+},
+"43": {
+  "id": "43",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "¡Desleal!",
+      "type": "Talismán",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/¡Desleal!.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "¡Desleal!",
+  "type": "Talismán",
+  "cost": 0,
+  "Espada Sagrada": "43"
+},
+"44": {
+  "id": "44",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Bola de Fuego",
+      "type": "Talismán",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Bola%20de%20Fuego.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Bola de Fuego",
+  "type": "Talismán",
+  "cost": 0,
+  "Espada Sagrada": "44"
+},
+"45": {
+  "id": "45",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Transmutación",
+      "type": "Talismán",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Transmutación.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Transmutación",
+  "type": "Talismán",
+  "cost": 0,
+  "Espada Sagrada": "45"
+},
+"46": {
+  "id": "46",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Fe sin Límite",
+      "type": "Talismán",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Fe%20sin%20Límite.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Fe sin Límite",
+  "type": "Talismán",
+  "cost": 0,
+  "Espada Sagrada": "46"
+},
+"47": {
+  "id": "47",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Dragón Dorado",
+      "type": "Talismán",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Dragón%20Dorado.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Dragón Dorado",
+  "type": "Talismán",
+  "cost": 0,
+  "Espada Sagrada": "47"
+},
+"48": {
+  "id": "48",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Cuna de Dragones",
+      "type": "Talismán",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Cuna%20de%20Dragones.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Cuna de Dragones",
+  "type": "Talismán",
+  "cost": 0,
+  "Espada Sagrada": "48"
+},
+"49": {
+  "id": "49",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "La Mirada de Mordred",
+      "type": "Talismán",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/La%20Mirada%20de%20Mordred.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "La Mirada de Mordred",
+  "type": "Talismán",
+  "cost": 0,
+  "Espada Sagrada": "49"
+},
+"50": {
+  "id": "50",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Santo Grial",
+      "type": "Talismán",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Santo%20Grial.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Santo Grial",
+  "type": "Talismán",
+  "cost": 0,
+  "Espada Sagrada": "50"
+},
+"51": {
+  "id": "51",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Una",
+      "type": "Talismán",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Una.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Una",
+  "type": "Talismán",
+  "cost": 0,
+  "Espada Sagrada": "51"
+},
+"52": {
+  "id": "52",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Capa de Invisibilidad",
+      "type": "Talismán",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Capa%20de%20Invisibilidad.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Capa de Invisibilidad",
+  "type": "Talismán",
+  "cost": 0,
+  "Espada Sagrada": "52"
+},
+"53": {
+  "id": "53",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Ataque Sorpresa",
+      "type": "Talismán",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Ataque%20Sorpresa.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Ataque Sorpresa",
+  "type": "Talismán",
+  "cost": 0,
+  "Espada Sagrada": "53"
+},
+"54": {
+  "id": "54",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Aulladores Blancos",
+      "type": "Talismán",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Aulladores%20Blancos.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Aulladores Blancos",
+  "type": "Talismán",
+  "cost": 0,
+  "Espada Sagrada": "54"
+},
+"55": {
+  "id": "55",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Ataque de Aliento",
+      "type": "Talismán",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Ataque%20de%20Aliento.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Ataque de Aliento",
+  "type": "Talismán",
+  "cost": 0,
+  "Espada Sagrada": "55"
+},
+"56": {
+  "id": "56",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "La Espada en la Piedra",
+      "type": "Talismán",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/La%20Espada%20en%20la%20Piedra.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "La Espada en la Piedra",
+  "type": "Talismán",
+  "cost": 0,
+  "Espada Sagrada": "56"
+},
+"57": {
+  "id": "57",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Atraer la Tormenta",
+      "type": "Talismán",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Atraer%20la%20Tormenta.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Atraer la Tormenta",
+  "type": "Talismán",
+  "cost": 0,
+  "Espada Sagrada": "57"
+},
+"58": {
+  "id": "58",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Barco",
+      "type": "Talismán",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Barco.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Barco",
+  "type": "Talismán",
+  "cost": 0,
+  "Espada Sagrada": "58"
+},
+"59": {
+  "id": "59",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Caballo Lunar",
+      "type": "Talismán",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Caballo%20Lunar.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Caballo Lunar",
+  "type": "Talismán",
+  "cost": 0,
+  "Espada Sagrada": "59"
+},
+"60": {
+  "id": "60",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Stonehage",
+      "type": "Tótem",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Stonehage.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Stonehage",
+  "type": "Tótem",
+  "cost": 0,
+  "Espada Sagrada": "60"
+},
+"61": {
+  "id": "61",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Tótem Maldito",
+      "type": "Tótem",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Tótem%20Maldito.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Tótem Maldito",
+  "type": "Tótem",
+  "cost": 0,
+  "Espada Sagrada": "61"
+},
+"62": {
+  "id": "62",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Tótem de Fe",
+      "type": "Tótem",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Tótem%20de%20Fe.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Tótem de Fe",
+  "type": "Tótem",
+  "cost": 0,
+  "Espada Sagrada": "62"
+},
+"63": {
+  "id": "63",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Tótem de Runas Élficas",
+      "type": "Tótem",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Tótem%20de%20Runas%20Élficas.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Tótem de Runas Élficas",
+  "type": "Tótem",
+  "cost": 0,
+  "Espada Sagrada": "63"
+},
+"64": {
+  "id": "64",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Tótem de la Última Canción",
+      "type": "Tótem",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Tótem%20de%20la%20Última%20Canción.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Tótem de la Última Canción",
+  "type": "Tótem",
+  "cost": 0,
+  "Espada Sagrada": "64"
+},
+"65": {
+  "id": "65",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Woodhage",
+      "type": "Tótem",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Woodhage.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Woodhage",
+  "type": "Tótem",
+  "cost": 0,
+  "Espada Sagrada": "65"
+},
+"66": {
+  "id": "66",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "El Círculo Eterno",
+      "type": "Tótem",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/El%20Círculo%20Eterno.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "El Círculo Eterno",
+  "type": "Tótem",
+  "cost": 0,
+  "Espada Sagrada": "66"
+},
+"67": {
+  "id": "67",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Excalibur",
+      "type": "Arma",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Excalibur.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Excalibur",
+  "type": "Arma",
+  "cost": 0,
+  "Espada Sagrada": "67"
+},
+"68": {
+  "id": "68",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Espada de Cristal",
+      "type": "Arma",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Espada%20de%20Cristal.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Espada de Cristal",
+  "type": "Arma",
+  "cost": 0,
+  "Espada Sagrada": "68"
+},
+"69": {
+  "id": "69",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Escudo Sidhe",
+      "type": "Arma",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Escudo%20Sidhe.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Escudo Sidhe",
+  "type": "Arma",
+  "cost": 0,
+  "Espada Sagrada": "69"
+},
+"70": {
+  "id": "70",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Malla de Mitril",
+      "type": "Arma",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Malla%20de%20Mitril.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Malla de Mitril",
+  "type": "Arma",
+  "cost": 0,
+  "Espada Sagrada": "70"
+},
+"71": {
+  "id": "71",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "La Lanza de los Dioses",
+      "type": "Arma",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/La%20Lanza%20de%20los%20Dioses.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "La Lanza de los Dioses",
+  "type": "Arma",
+  "cost": 0,
+  "Espada Sagrada": "71"
+},
+"72": {
+  "id": "72",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Armadura del Sol",
+      "type": "Arma",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Armadura%20del%20Sol.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Armadura del Sol",
+  "type": "Arma",
+  "cost": 0,
+  "Espada Sagrada": "72"
+},
+"73": {
+  "id": "73",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Espada Dragón",
+      "type": "Arma",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Espada%20Dragón.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Espada Dragón",
+  "type": "Arma",
+  "cost": 0,
+  "Espada Sagrada": "73"
+},
+"74": {
+  "id": "74",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Llewelyn, Voz de Plata",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Llewelyn,%20Voz%20de%20Plata.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Llewelyn, Voz de Plata",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "74"
+},
+"75": {
+  "id": "75",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Sir Owen",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Sir%20Owen.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Sir Owen",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "75"
+},
+"76": {
+  "id": "76",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Lady Rachel",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Lady%20Rachel.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Lady Rachel",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "76"
+},
+"77": {
+  "id": "77",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Sir Gabriel",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Sir%20Gabriel.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Sir Gabriel",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "77"
+},
+"78": {
+  "id": "78",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Isolda",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Isolda.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Isolda",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "78"
+},
+"79": {
+  "id": "79",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Lord Fergus Macloud",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Lord%20Fergus%20Macloud.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Lord Fergus Macloud",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "79"
+},
+"80": {
+  "id": "80",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Sir Wesley",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Sir%20Wesley.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Sir Wesley",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "80"
+},
+"81": {
+  "id": "81",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Perséfone",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Perséfone.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Perséfone",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "81"
+},
+"82": {
+  "id": "82",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Sir Marcus",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Sir%20Marcus.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Sir Marcus",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "82"
+},
+"83": {
+  "id": "83",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Valkyria",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Valkyria.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Valkyria",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "83"
+},
+"84": {
+  "id": "84",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Príncipe Hada",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Príncipe%20Hada.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Príncipe Hada",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "84"
+},
+"85": {
+  "id": "85",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Súcubo",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Súcubo.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Súcubo",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "85"
+},
+"86": {
+  "id": "86",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Hadita Azul",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Hadita%20Azul.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Hadita Azul",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "86"
+},
+"87": {
+  "id": "87",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Reina Hada",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Reina%20Hada.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Reina Hada",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "87"
+},
+"88": {
+  "id": "88",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Artorius, Explorador de Fuego",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Artorius,%20Explorador%20de%20Fuego.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Artorius, Explorador de Fuego",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "88"
+},
+"89": {
+  "id": "89",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Fauno del Bosque",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Fauno%20del%20Bosque.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Fauno del Bosque",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "89"
+},
+"90": {
+  "id": "90",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Aura del Lago",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Aura%20del%20Lago.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Aura del Lago",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "90"
+},
+"91": {
+  "id": "91",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Lord William",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Lord%20William.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Lord William",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "91"
+},
+"92": {
+  "id": "92",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Dama de la Corte",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Dama%20de%20la%20Corte.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Dama de la Corte",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "92"
+},
+"93": {
+  "id": "93",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Sir Bernard",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Sir%20Bernard.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Sir Bernard",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "93"
+},
+"94": {
+  "id": "94",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Dama de Fe",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Dama%20de%20Fe.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Dama de Fe",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "94"
+},
+"95": {
+  "id": "95",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Capitán Drake",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Capitán%20Drake.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Capitán Drake",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "95"
+},
+"96": {
+  "id": "96",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Sir Lawrence",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Sir%20Lawrence.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Sir Lawrence",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "96"
+},
+"97": {
+  "id": "97",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Capitán Morgan",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Capitán%20Morgan.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Capitán Morgan",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "97"
+},
+"98": {
+  "id": "98",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Saqueador del Mar del Norte",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Saqueador%20del%20Mar%20del%20Norte.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Saqueador del Mar del Norte",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "98"
+},
+"99": {
+  "id": "99",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Caballero de la Reina",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Caballero%20de%20la%20Reina.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Caballero de la Reina",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "99"
+},
+"100": {
+  "id": "100",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Dama de la Noche",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Dama%20de%20la%20Noche.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Dama de la Noche",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "100"
+},
+"101": {
+  "id": "101",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Lord Elfo",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Lord%20Elfo.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Lord Elfo",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "101"
+},
+"102": {
+  "id": "102",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Lady Shee'Dia",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Lady%20Shee'Dia.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Lady Shee'Dia",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "102"
+},
+"103": {
+  "id": "103",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Greenknight",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Greenknight.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Greenknight",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "103"
+},
+"104": {
+  "id": "104",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Bruja Anís",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Bruja%20Anís.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Bruja Anís",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "104"
+},
+"105": {
+  "id": "105",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Banshee",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Banshee.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Banshee",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "105"
+},
+"106": {
+  "id": "106",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Pooka",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Pooka.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Pooka",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "106"
+},
+"107": {
+  "id": "107",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Elfo Oscuro",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Elfo%20Oscuro.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Elfo Oscuro",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "107"
+},
+"108": {
+  "id": "108",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Nixx",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Nixx.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Nixx",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "108"
+},
+"109": {
+  "id": "109",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Lobos de Ávalon",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Lobos%20de%20Ávalon.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Lobos de Ávalon",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "109"
+},
+"110": {
+  "id": "110",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Pixie",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Pixie.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Pixie",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "110"
+},
+"111": {
+  "id": "111",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Kelpie",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Kelpie.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Kelpie",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "111"
+},
+"112": {
+  "id": "112",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Bane",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Bane.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Bane",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "112"
+},
+"113": {
+  "id": "113",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Ettin",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Ettin.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Ettin",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "113"
+},
+"114": {
+  "id": "114",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "San Jorge y el Dragón",
+      "type": "Talismán",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/San%20Jorge%20y%20el%20Dragón.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "San Jorge y el Dragón",
+  "type": "Talismán",
+  "cost": 0,
+  "Espada Sagrada": "114"
+},
+"115": {
+  "id": "115",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Cuatro Fuertes Vientos",
+      "type": "Talismán",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Cuatro%20Fuertes%20Vientos.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Cuatro Fuertes Vientos",
+  "type": "Talismán",
+  "cost": 0,
+  "Espada Sagrada": "115"
+},
+"116": {
+  "id": "116",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Misil Mágico",
+      "type": "Talismán",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Misil%20Mágico.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Misil Mágico",
+  "type": "Talismán",
+  "cost": 0,
+  "Espada Sagrada": "116"
+},
+"117": {
+  "id": "117",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Flecha Ácida",
+      "type": "Talismán",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Flecha%20Ácida.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Flecha Ácida",
+  "type": "Talismán",
+  "cost": 0,
+  "Espada Sagrada": "117"
+},
+"118": {
+  "id": "118",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Congelar",
+      "type": "Talismán",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Congelar.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Congelar",
+  "type": "Talismán",
+  "cost": 0,
+  "Espada Sagrada": "118"
+},
+"119": {
+  "id": "119",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Nombrado Caballero",
+      "type": "Talismán",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Nombrado%20Caballero.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Nombrado Caballero",
+  "type": "Talismán",
+  "cost": 0,
+  "Espada Sagrada": "119"
+},
+"120": {
+  "id": "120",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Estampida",
+      "type": "Talismán",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Estampida.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Estampida",
+  "type": "Talismán",
+  "cost": 0,
+  "Espada Sagrada": "120"
+},
+"121": {
+  "id": "121",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Cuna de Gusanos",
+      "type": "Talismán",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Cuna%20de%20Gusanos.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Cuna de Gusanos",
+  "type": "Talismán",
+  "cost": 0,
+  "Espada Sagrada": "121"
+},
+"122": {
+  "id": "122",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Pergamino Mágico",
+      "type": "Talismán",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Pergamino%20Mágico.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Pergamino Mágico",
+  "type": "Talismán",
+  "cost": 0,
+  "Espada Sagrada": "122"
+},
+"123": {
+  "id": "123",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "La Piedra de los Sueños",
+      "type": "Talismán",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/La%20Piedra%20de%20los%20Sueños.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "La Piedra de los Sueños",
+  "type": "Talismán",
+  "cost": 0,
+  "Espada Sagrada": "123"
+},
+"124": {
+  "id": "124",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Justa",
+      "type": "Talismán",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Justa.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Justa",
+  "type": "Talismán",
+  "cost": 0,
+  "Espada Sagrada": "124"
+},
+"125": {
+  "id": "125",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "El Juicio de Dios",
+      "type": "Talismán",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/El%20Juicio%20de%20Dios.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "El Juicio de Dios",
+  "type": "Talismán",
+  "cost": 0,
+  "Espada Sagrada": "125"
+},
+"126": {
+  "id": "126",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Incinerar",
+      "type": "Talismán",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Incinerar.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Incinerar",
+  "type": "Talismán",
+  "cost": 0,
+  "Espada Sagrada": "126"
+},
+"127": {
+  "id": "127",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Favor de la Corte",
+      "type": "Talismán",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Favor%20de%20la%20Corte.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Favor de la Corte",
+  "type": "Talismán",
+  "cost": 0,
+  "Espada Sagrada": "127"
+},
+"128": {
+  "id": "128",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Knockers",
+      "type": "Talismán",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Knockers.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Knockers",
+  "type": "Talismán",
+  "cost": 0,
+  "Espada Sagrada": "128"
+},
+"129": {
+  "id": "129",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Brownie",
+      "type": "Talismán",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Brownie.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Brownie",
+  "type": "Talismán",
+  "cost": 0,
+  "Espada Sagrada": "129"
+},
+"130": {
+  "id": "130",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Urisk",
+      "type": "Talismán",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Urisk.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Urisk",
+  "type": "Talismán",
+  "cost": 0,
+  "Espada Sagrada": "130"
+},
+"131": {
+  "id": "131",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Legado del Bosque",
+      "type": "Talismán",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Legado%20del%20Bosque.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Legado del Bosque",
+  "type": "Talismán",
+  "cost": 0,
+  "Espada Sagrada": "131"
+},
+"132": {
+  "id": "132",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Producir Terremoto",
+      "type": "Talismán",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Producir%20Terremoto.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Producir Terremoto",
+  "type": "Talismán",
+  "cost": 0,
+  "Espada Sagrada": "132"
+},
+"133": {
+  "id": "133",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Tótem del Errante",
+      "type": "Tótem",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Tótem%20del%20Errante.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Tótem del Errante",
+  "type": "Tótem",
+  "cost": 0,
+  "Espada Sagrada": "133"
+},
+"134": {
+  "id": "134",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Tótem Goblin",
+      "type": "Tótem",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Tótem%20Goblin.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Tótem Goblin",
+  "type": "Tótem",
+  "cost": 0,
+  "Espada Sagrada": "134"
+},
+"135": {
+  "id": "135",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Tótem de Cristal",
+      "type": "Tótem",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Tótem%20de%20Cristal.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Tótem de Cristal",
+  "type": "Tótem",
+  "cost": 0,
+  "Espada Sagrada": "135"
+},
+"136": {
+  "id": "136",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Tótem Alquímico",
+      "type": "Tótem",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Tótem%20Alquímico.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Tótem Alquímico",
+  "type": "Tótem",
+  "cost": 0,
+  "Espada Sagrada": "136"
+},
+"137": {
+  "id": "137",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Oldhage",
+      "type": "Tótem",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Oldhage.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Oldhage",
+  "type": "Tótem",
+  "cost": 0,
+  "Espada Sagrada": "137"
+},
+"138": {
+  "id": "138",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Tótem de Nwyre",
+      "type": "Tótem",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Tótem%20de%20Nwyre.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Tótem de Nwyre",
+  "type": "Tótem",
+  "cost": 0,
+  "Espada Sagrada": "138"
+},
+"139": {
+  "id": "139",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Tótem del Conjurador",
+      "type": "Tótem",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Tótem%20del%20Conjurador.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Tótem del Conjurador",
+  "type": "Tótem",
+  "cost": 0,
+  "Espada Sagrada": "139"
+},
+"140": {
+  "id": "140",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Armadura Completa",
+      "type": "Arma",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Armadura%20Completa.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Armadura Completa",
+  "type": "Arma",
+  "cost": 0,
+  "Espada Sagrada": "140"
+},
+"141": {
+  "id": "141",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Hacha de Batalla",
+      "type": "Arma",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Hacha%20de%20Batalla.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Hacha de Batalla",
+  "type": "Arma",
+  "cost": 0,
+  "Espada Sagrada": "141"
+},
+"142": {
+  "id": "142",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Botas Élficas",
+      "type": "Arma",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Botas%20Élficas.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Botas Élficas",
+  "type": "Arma",
+  "cost": 0,
+  "Espada Sagrada": "142"
+},
+"143": {
+  "id": "143",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Espada Dentada",
+      "type": "Arma",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Espada%20Dentada.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Espada Dentada",
+  "type": "Arma",
+  "cost": 0,
+  "Espada Sagrada": "143"
+},
+"144": {
+  "id": "144",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Mandoble",
+      "type": "Arma",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Mandoble.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Mandoble",
+  "type": "Arma",
+  "cost": 0,
+  "Espada Sagrada": "144"
+},
+"145": {
+  "id": "145",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Scotish",
+      "type": "Arma",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Scotish.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Scotish",
+  "type": "Arma",
+  "cost": 0,
+  "Espada Sagrada": "145"
+},
+"146": {
+  "id": "146",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Morning Star",
+      "type": "Arma",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Morning%20Star.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Morning Star",
+  "type": "Arma",
+  "cost": 0,
+  "Espada Sagrada": "146"
+},
+"147": {
+  "id": "147",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Kay",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Kay.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Kay",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "147"
+},
+"148": {
+  "id": "148",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Halconero Real",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Halconero%20Real.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Halconero Real",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "148"
+},
+"149": {
+  "id": "149",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Piqueros",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Piqueros.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Piqueros",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "149"
+},
+"150": {
+  "id": "150",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Caballería Ligera",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Caballería%20Ligera.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Caballería Ligera",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "150"
+},
+"151": {
+  "id": "151",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Comisario",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Comisario.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Comisario",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "151"
+},
+"152": {
+  "id": "152",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Guardia Real",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Guardia%20Real.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Guardia Real",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "152"
+},
+"153": {
+  "id": "153",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Campesino",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Campesino.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Campesino",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "153"
+},
+"154": {
+  "id": "154",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Sir Gareth",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Sir%20Gareth.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Sir Gareth",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "154"
+},
+"155": {
+  "id": "155",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Sir Thomas",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Sir%20Thomas.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Sir Thomas",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "155"
+},
+"156": {
+  "id": "156",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Sir Lucan",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Sir%20Lucan.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Sir Lucan",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "156"
+},
+"157": {
+  "id": "157",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Sir Mador del Portal",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Sir%20Mador%20del%20Portal.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Sir Mador del Portal",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "157"
+},
+"158": {
+  "id": "158",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Sir Gaerin, El Blanco",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Sir%20Gaerin,%20El%20Blanco.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Sir Gaerin, El Blanco",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "158"
+},
+"159": {
+  "id": "159",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Sir Jason de la Sangre",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Sir%20Jason%20de%20la%20Sangre.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Sir Jason de la Sangre",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "159"
+},
+"160": {
+  "id": "160",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Duque Thurk Bloodline",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Duque%20Thurk%20Bloodline.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Duque Thurk Bloodline",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "160"
+},
+"161": {
+  "id": "161",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Aghast, El Dragón",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Aghast,%20El%20Dragón.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Aghast, El Dragón",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "161"
+},
+"162": {
+  "id": "162",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Draco Sangre",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Draco%20Sangre.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Draco Sangre",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "162"
+},
+"163": {
+  "id": "163",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Atha - Uk",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Atha%20-%20Uk.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Atha - Uk",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "163"
+},
+"164": {
+  "id": "164",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Guerreros del Dragón",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Guerreros%20del%20Dragón.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Guerreros del Dragón",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "164"
+},
+"165": {
+  "id": "165",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Bárbaros Enfurecidos",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Bárbaros%20Enfurecidos.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Bárbaros Enfurecidos",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "165"
+},
+"166": {
+  "id": "166",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Dragón Nodriza",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Dragón%20Nodriza.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Dragón Nodriza",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "166"
+},
+"167": {
+  "id": "167",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Dragonel",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Dragonel.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Dragonel",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "167"
+},
+"168": {
+  "id": "168",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Bandidos Pictos",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Bandidos%20Pictos.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Bandidos Pictos",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "168"
+},
+"169": {
+  "id": "169",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Draco Águila",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Draco%20Águila.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Draco Águila",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "169"
+},
+"170": {
+  "id": "170",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Cultistas del Dragón",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Cultistas%20del%20Dragón.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Cultistas del Dragón",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "170"
+},
+"171": {
+  "id": "171",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Caballeros Pictos",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Caballeros%20Pictos.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Caballeros Pictos",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "171"
+},
+"172": {
+  "id": "172",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Dregon",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Dregon.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Dregon",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "172"
+},
+"173": {
+  "id": "173",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Rávido",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Rávido.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Rávido",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "173"
+},
+"174": {
+  "id": "174",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Goblin",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Goblin.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Goblin",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "174"
+},
+"175": {
+  "id": "175",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Hobglobin",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Hobglobin.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Hobglobin",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "175"
+},
+"176": {
+  "id": "176",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Arquero Elfo",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Arquero%20Elfo.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Arquero Elfo",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "176"
+},
+"177": {
+  "id": "177",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Ciervo Sagrado",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Ciervo%20Sagrado.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Ciervo Sagrado",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "177"
+},
+"178": {
+  "id": "178",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Duendes",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Duendes.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Duendes",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "178"
+},
+"179": {
+  "id": "179",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Goblin Conjurador",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Goblin%20Conjurador.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Goblin Conjurador",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "179"
+},
+"180": {
+  "id": "180",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Armada Élfica",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Armada%20Élfica.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Armada Élfica",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "180"
+},
+"181": {
+  "id": "181",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Talsoi",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Talsoi.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Talsoi",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "181"
+},
+"182": {
+  "id": "182",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Hijas del Caldero",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Hijas%20del%20Caldero.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Hijas del Caldero",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "182"
+},
+"183": {
+  "id": "183",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Galeb Duhr",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Galeb%20Duhr.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Galeb Duhr",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "183"
+},
+"184": {
+  "id": "184",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Otyugh",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Otyugh.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Otyugh",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "184"
+},
+"185": {
+  "id": "185",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Boggart",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Boggart.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Boggart",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "185"
+},
+"186": {
+  "id": "186",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Brag",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Brag.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Brag",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "186"
+},
+"187": {
+  "id": "187",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Asesinos en la Corte",
+      "type": "Talismán",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Asesinos%20en%20la%20Corte.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Asesinos en la Corte",
+  "type": "Talismán",
+  "cost": 0,
+  "Espada Sagrada": "187"
+},
+"188": {
+  "id": "188",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Camino a Avalon",
+      "type": "Talismán",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Camino%20a%20Avalon.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Camino a Avalon",
+  "type": "Talismán",
+  "cost": 0,
+  "Espada Sagrada": "188"
+},
+"189": {
+  "id": "189",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Cantrip",
+      "type": "Talismán",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Cantrip.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Cantrip",
+  "type": "Talismán",
+  "cost": 0,
+  "Espada Sagrada": "189"
+},
+"190": {
+  "id": "190",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Nombrado Escudero",
+      "type": "Talismán",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Nombrado%20Escudero.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Nombrado Escudero",
+  "type": "Talismán",
+  "cost": 0,
+  "Espada Sagrada": "190"
+},
+"191": {
+  "id": "191",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Grig",
+      "type": "Talismán",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Grig.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Grig",
+  "type": "Talismán",
+  "cost": 0,
+  "Espada Sagrada": "191"
+},
+"192": {
+  "id": "192",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Talismán Celta",
+      "type": "Talismán",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Talismán%20Celta.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Talismán Celta",
+  "type": "Talismán",
+  "cost": 0,
+  "Espada Sagrada": "192"
+},
+"193": {
+  "id": "193",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Juglares",
+      "type": "Talismán",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Juglares.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Juglares",
+  "type": "Talismán",
+  "cost": 0,
+  "Espada Sagrada": "193"
+},
+"194": {
+  "id": "194",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Hechizo de Niebla",
+      "type": "Talismán",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Hechizo%20de%20Niebla.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Hechizo de Niebla",
+  "type": "Talismán",
+  "cost": 0,
+  "Espada Sagrada": "194"
+},
+"195": {
+  "id": "195",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Yermo",
+      "type": "Talismán",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Yermo.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Yermo",
+  "type": "Talismán",
+  "cost": 0,
+  "Espada Sagrada": "195"
+},
+"196": {
+  "id": "196",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Funeral Para un Amigo",
+      "type": "Talismán",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Funeral%20Para%20un%20Amigo.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Funeral Para un Amigo",
+  "type": "Talismán",
+  "cost": 0,
+  "Espada Sagrada": "196"
+},
+"197": {
+  "id": "197",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Dioses en la Sombra",
+      "type": "Talismán",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Dioses%20en%20la%20Sombra.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Dioses en la Sombra",
+  "type": "Talismán",
+  "cost": 0,
+  "Espada Sagrada": "197"
+},
+"198": {
+  "id": "198",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "El Juez",
+      "type": "Talismán",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/El%20Juez.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "El Juez",
+  "type": "Talismán",
+  "cost": 0,
+  "Espada Sagrada": "198"
+},
+"199": {
+  "id": "199",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Ataque Dragón",
+      "type": "Talismán",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Ataque%20Dragón.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Ataque Dragón",
+  "type": "Talismán",
+  "cost": 0,
+  "Espada Sagrada": "199"
+},
+"200": {
+  "id": "200",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Relatos en la Mesa Redonda",
+      "type": "Talismán",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Relatos%20en%20la%20Mesa%20Redonda.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Relatos en la Mesa Redonda",
+  "type": "Talismán",
+  "cost": 0,
+  "Espada Sagrada": "200"
+},
+"201": {
+  "id": "201",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Lord Protector",
+      "type": "Talismán",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Lord%20Protector.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Lord Protector",
+  "type": "Talismán",
+  "cost": 0,
+  "Espada Sagrada": "201"
+},
+"202": {
+  "id": "202",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "La Búsqueda",
+      "type": "Talismán",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/La%20Búsqueda.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "La Búsqueda",
+  "type": "Talismán",
+  "cost": 0,
+  "Espada Sagrada": "202"
+},
+"203": {
+  "id": "203",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Canción Mágica",
+      "type": "Talismán",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Canción%20Mágica.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Canción Mágica",
+  "type": "Talismán",
+  "cost": 0,
+  "Espada Sagrada": "203"
+},
+"204": {
+  "id": "204",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Cetro del Dragón",
+      "type": "Arma",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Cetro%20del%20Dragón.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Cetro del Dragón",
+  "type": "Arma",
+  "cost": 0,
+  "Espada Sagrada": "204"
+},
+"205": {
+  "id": "205",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Grimorio del Dragonel",
+      "type": "Arma",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Grimorio%20del%20Dragonel.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Grimorio del Dragonel",
+  "type": "Arma",
+  "cost": 0,
+  "Espada Sagrada": "205"
+},
+"206": {
+  "id": "206",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Garra de Dragón",
+      "type": "Arma",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Garra%20de%20Dragón.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Garra de Dragón",
+  "type": "Arma",
+  "cost": 0,
+  "Espada Sagrada": "206"
+},
+"207": {
+  "id": "207",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Excalibur",
+      "type": "Arma",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Excalibur.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Excalibur",
+  "type": "Arma",
+  "cost": 0,
+  "Espada Sagrada": "207"
+},
+"208": {
+  "id": "208",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Corona de Camelot",
+      "type": "Arma",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Corona%20de%20Camelot.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Corona de Camelot",
+  "type": "Arma",
+  "cost": 0,
+  "Espada Sagrada": "208"
+},
+"209": {
+  "id": "209",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Joan",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Joan.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Joan",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "209"
+},
+"210": {
+  "id": "210",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Sir Leoric",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Sir%20Leoric.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Sir Leoric",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "210"
+},
+"211": {
+  "id": "211",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Brimstone",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Brimstone.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Brimstone",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "211"
+},
+"212": {
+  "id": "212",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Sir Gaunt, El Justo",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Sir%20Gaunt,%20El%20Justo.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Sir Gaunt, El Justo",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "212"
+},
+"213": {
+  "id": "213",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Sir Martin, El Rojo",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Sir%20Martin,%20El%20Rojo.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Sir Martin, El Rojo",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "213"
+},
+"214": {
+  "id": "214",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Lord Balthazar",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Lord%20Balthazar.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Lord Balthazar",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "214"
+},
+"215": {
+  "id": "215",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Gul'Dan",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Gul'Dan.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Gul'Dan",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "215"
+},
+"216": {
+  "id": "216",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "El Dragón de Morgana",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/El%20Dragón%20de%20Morgana.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "El Dragón de Morgana",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "216"
+},
+"217": {
+  "id": "217",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Dragor",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Dragor.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Dragor",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "217"
+},
+"218": {
+  "id": "218",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Mirmidón",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Mirmidón.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Mirmidón",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "218"
+},
+"219": {
+  "id": "219",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Hijas de Morgana",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Hijas%20de%20Morgana.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Hijas de Morgana",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "219"
+},
+"220": {
+  "id": "220",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Oscuridad Interior",
+      "type": "Talismán",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Oscuridad%20Interior.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Oscuridad Interior",
+  "type": "Talismán",
+  "cost": 0,
+  "Espada Sagrada": "220"
+},
+"221": {
+  "id": "221",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Metamorfosis",
+      "type": "Talismán",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Metamorfosis.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Metamorfosis",
+  "type": "Talismán",
+  "cost": 0,
+  "Espada Sagrada": "221"
+},
+"222": {
+  "id": "222",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Mal de Ojo",
+      "type": "Talismán",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Mal%20de%20Ojo.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Mal de Ojo",
+  "type": "Talismán",
+  "cost": 0,
+  "Espada Sagrada": "222"
+},
+"223": {
+  "id": "223",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Ritual de Sangre",
+      "type": "Talismán",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Ritual%20de%20Sangre.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Ritual de Sangre",
+  "type": "Talismán",
+  "cost": 0,
+  "Espada Sagrada": "223"
+},
+"224": {
+  "id": "224",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Niebla Negra",
+      "type": "Talismán",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Niebla%20Negra.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Niebla Negra",
+  "type": "Talismán",
+  "cost": 0,
+  "Espada Sagrada": "224"
+},
+"225": {
+  "id": "225",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Maldición Sombría",
+      "type": "Talismán",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Maldición%20Sombría.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Maldición Sombría",
+  "type": "Talismán",
+  "cost": 0,
+  "Espada Sagrada": "225"
+},
+"226": {
+  "id": "226",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Furia del Bosque",
+      "type": "Talismán",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Furia%20del%20Bosque.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Furia del Bosque",
+  "type": "Talismán",
+  "cost": 0,
+  "Espada Sagrada": "226"
+},
+"227": {
+  "id": "227",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Sueño Eterno",
+      "type": "Talismán",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Sueño%20Eterno.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Sueño Eterno",
+  "type": "Talismán",
+  "cost": 0,
+  "Espada Sagrada": "227"
+},
+"228": {
+  "id": "228",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Cántico de las Hadas",
+      "type": "Talismán",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Cántico%20de%20las%20Hadas.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Cántico de las Hadas",
+  "type": "Talismán",
+  "cost": 0,
+  "Espada Sagrada": "228"
+},
+"229": {
+  "id": "229",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Pesadilla",
+      "type": "Talismán",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Pesadilla.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Pesadilla",
+  "type": "Talismán",
+  "cost": 0,
+  "Espada Sagrada": "229"
+},
+"230": {
+  "id": "230",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Hechizo del Olvido",
+      "type": "Talismán",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Hechizo%20del%20Olvido.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Hechizo del Olvido",
+  "type": "Talismán",
+  "cost": 0,
+  "Espada Sagrada": "230"
+},
+"231": {
+  "id": "231",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Antorcha Feral",
+      "type": "Talismán",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Antorcha%20Feral.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Antorcha Feral",
+  "type": "Talismán",
+  "cost": 0,
+  "Espada Sagrada": "231"
+},
+"232": {
+  "id": "232",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Escudo de Morgana",
+      "type": "Arma",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Escudo%20de%20Morgana.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Escudo de Morgana",
+  "type": "Arma",
+  "cost": 0,
+  "Espada Sagrada": "232"
+},
+"233": {
+  "id": "233",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Reino de las Sombras",
+      "type": "Oro",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Reino%20de%20las%20Sombras.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Reino de las Sombras",
+  "type": "Oro",
+  "cost": 0,
+  "Espada Sagrada": "233"
+},
+"234": {
+  "id": "234",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Camelot",
+      "type": "Oro",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Camelot.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Camelot",
+  "type": "Oro",
+  "cost": 0,
+  "Espada Sagrada": "234"
+},
+"235": {
+  "id": "235",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Isla de Ávalon",
+      "type": "Oro",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Isla%20de%20Ávalon.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Isla de Ávalon",
+  "type": "Oro",
+  "cost": 0,
+  "Espada Sagrada": "235"
+},
+"236": {
+  "id": "236",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "País de Nwyre",
+      "type": "Oro",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/País%20de%20Nwyre.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "País de Nwyre",
+  "type": "Oro",
+  "cost": 0,
+  "Espada Sagrada": "236"
+  }
 }
