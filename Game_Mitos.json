@@ -34,7 +34,7 @@
           "Ataque",
           "Defensa",
           "Apoyo",
-          "Oro",
+          "Orop",
           "Roro",
           "Cementerio",
           "Destierro"
@@ -82,7 +82,7 @@
               },
               "content": [
                 {
-                  "section": "Oro Pagado",
+                  "section": "Orop",
                   "style": {
                     "width": "7vw",
                     "height": "60vh"
@@ -96,7 +96,7 @@
                   }
                 },
                 {
-                  "section": "Reserva Oro",
+                  "section": "Roro",
                   "style": {
                     "width": "7vw",
                     "height": "60vh"
@@ -146,40 +146,8 @@
         },
         "autoPlayFromStack": {},
         "sectionsDict": {
-          "DISCARD": {
-            "title": "DISCARD",
-            "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "END",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "HAND": {
-            "title": "HAND",
-            "isHidden": "opponent-only",
-            "height": "MEDIUM",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "DECK": {
-            "title": "DECK",
+          "Castillo": {
+            "title": "Castillo",
             "isHidden": "yes",
             "height": "MEDIUM",
             "alignment": "START",
@@ -194,8 +162,8 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "SIDEBOARD": {
-            "title": "SIDEBOARD",
+          "Destierro": {
+            "title": "Destierro",
             "isHidden": "no",
             "height": "SMALL",
             "alignment": "CENTER",
@@ -210,10 +178,26 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "EXILE": {
-            "title": "EXILE",
+          "Cementerio": {
+            "title": "Cementerio",
             "isHidden": "no",
             "height": "SMALL",
+            "alignment": "END",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Cementerio",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Orop": {
+            "title": "Orop",
+            "isHidden": "no",
+            "height": "MEDIUM",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
@@ -226,8 +210,56 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "STACK": {
-            "title": "STACK",
+          "Roro": {
+            "title": "Roro",
+            "isHidden": "yes",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Ataque": {
+            "title": "Ataque",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "START",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Defensa": {
+            "title": "Defensa",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "START",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Apoyo": {
+            "title": "Apoyo",
             "isHidden": "no",
             "height": "MEDIUM",
             "alignment": "CENTER",
