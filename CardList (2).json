@@ -1,3 +1,1 @@
-{
-"1": {	  "id": "ED1",	  "isToken": false,	  "face": {	    "front": {	      "name": "267_mch0ef-small.webp",	      "type": "Aliado",	      "cost": 0,	      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/PE/ED/267_mch0ef-small.webp",	      "isHorizontal": false	    }	  },	  "name": "267_mch0ef-small.webp",	  "type": "Aliado",	  "cost": 0,	  "Espiritu de dragon": "ED1"	}
-}
+{"1": {	  "id": "ED1",	  "isToken": false,	  "face": {	    "front": {	      "name": "267_mch0ef-small.webp",	      "type": "Aliado",	      "cost": 0,	      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/PE/ED/267_mch0ef-small.webp",	      "isHorizontal": false	    }	  },	  "name": "267_mch0ef-small.webp",	  "type": "Aliado",	  "cost": 0,	  "Espiritu de dragon": "ED1"	} }
