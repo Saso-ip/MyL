@@ -1,5 +1,5 @@
 {
-1: {
+1:{
   "id": "1",
   "isToken": false,
   "face": {
@@ -16,7 +16,7 @@
   "cost": 0,
   "Espada Sagrada": "1"
 },
-2: {
+2:{
   "id": "2",
   "isToken": false,
   "face": {
