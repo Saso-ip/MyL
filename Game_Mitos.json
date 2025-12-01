@@ -173,7 +173,7 @@
             "title": "Ataque",
             "isHidden": "no",
             "height": "SMALL",
-            "alignment": "START",
+            "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
