@@ -338,5 +338,345 @@
   "type": "Aliado",
   "cost": 0,
   "Espada Sagrada": "20"
-  }
+  },
+"21": {
+  "id": "21",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Dragón del Agua",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Dragón%20del%20Agua.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Dragón del Agua",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "21"
+},
+"22": {
+  "id": "22",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Dragón de Plata",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Dragón%20de%20Plata.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Dragón de Plata",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "22"
+},
+"23": {
+  "id": "23",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Dragón Cobrizo",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Dragón%20Cobrizo.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Dragón Cobrizo",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "23"
+},
+"24": {
+  "id": "24",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Dragón de Bronce",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Dragón%20de%20Bronce.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Dragón de Bronce",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "24"
+},
+"25": {
+  "id": "25",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Kernuac el Cazador",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Kernuac%20el%20Cazador.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Kernuac el Cazador",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "25"
+},
+"26": {
+  "id": "26",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Dragón Nube",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Dragón%20Nube.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Dragón Nube",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "26"
+},
+"27": {
+  "id": "27",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Basoon",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Basoon.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Basoon",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "27"
+},
+"28": {
+  "id": "28",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Oberon",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Oberon.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Oberon",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "28"
+},
+"29": {
+  "id": "29",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Titania",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Titania.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Titania",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "29"
+},
+"30": {
+  "id": "30",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Mago Merlín",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Mago%20Merlín.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Mago Merlín",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "30"
+},
+"31": {
+  "id": "31",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Mordred",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Mordred.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Mordred",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "31"
+},
+"32": {
+  "id": "32",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Morgana",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Morgana.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Morgana",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "32"
+},
+"33": {
+  "id": "33",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Belial el Bestial",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Belial%20el%20Bestial.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Belial el Bestial",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "33"
+},
+"34": {
+  "id": "34",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "La Dama del Lago",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/La%20Dama%20del%20Lago.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "La Dama del Lago",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "34"
+},
+"35": {
+  "id": "35",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Alto Druida",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Alto%20Druida.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Alto Druida",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "35"
+},
+"36": {
+  "id": "36",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Las Tres Hermanas",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Las%20Tres%20Hermanas.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Las Tres Hermanas",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "36"
+},
+"37": {
+  "id": "37",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "El Poeta",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/El%20Poeta.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "El Poeta",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "37"
+},
+"38": {
+  "id": "38",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Puck",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Puck.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Puck",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "38"
+},
+"39": {
+  "id": "39",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Each Usige",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Each%20Usige.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Each Usige",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "39"
+},
+"40": {
+  "id": "40",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Ellyllon",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Ellyllon.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Ellyllon",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "40"
+  }  
 }
