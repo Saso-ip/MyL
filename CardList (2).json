@@ -1,5 +1,36 @@
-{	1: {	  "id": "1",	  "isToken": false,	  "face": {	    "front": {	      "name": "Rey Arturo Pendragón",	      "type": "Aliado",	      "cost": 0,	      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Rey%20Arturo%20Pendrag%C3%B3n.webp",	      "isHorizontal": false	    }	  },	  "name": "Rey Arturo Pendragón",	  "type": "Aliado",	  "cost": 0,	  "Espada Sagrada": "1"	},
-{	2: {	  "id": "2",	  "isToken": false,	  "face": {	    "front": {	      "name": "Reina%20Guinivere",	      "type": "Aliado",	      "cost": 0,	      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Reina%20Guinivere.webp",	      "isHorizontal": false	    }	  },	  "name": "Reina%20Guinivere",	  "type": "Aliado",	  "cost": 0,	  "Espada Sagrada": "2"	},
-{	3: {	  "id": "3",	  "isToken": false,	  "face": {	    "front": {	      "name": "Sir%20Lancelot",	      "type": "Aliado",	      "cost": 0,	      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Sir%20Lancelot.webp",	      "isHorizontal": false	    }	  },	  "name": "Sir%20Lancelot",	  "type": "Aliado",	  "cost": 0,	  "Espada Sagrada": "3"	},
-{	4: {	  "id": "4",	  "isToken": false,	  "face": {	    "front": {	      "name": "Sir%20Gawein",	      "type": "Aliado",	      "cost": 0,	      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Sir%20Gawein.webp",	      "isHorizontal": false	    }	  },	  "name": "Sir%20Gawein",	  "type": "Aliado",	  "cost": 0,	  "Espada Sagrada": "4"	},
-{	5: {	  "id": "5",	  "isToken": false,	  "face": {	    "front": {	      "name": "Sir%20Pérsival",	      "type": "Aliado",	      "cost": 0,	      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Sir%20Pérsival.webp",	      "isHorizontal": false	    }	  },	  "name": "Sir%20Pérsival",	  "type": "Aliado",	  "cost": 0,	  "Espada Sagrada": "5"	}  }
+{
+1: {
+  "id": "1",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Rey Arturo Pendragón",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Rey%20Arturo%20Pendrag%C3%B3n.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Rey Arturo Pendragón",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "1"
+},
+2: {
+  "id": "2",
+  "isToken": false,
+  "face": {
+    "front": {
+      "name": "Reina%20Guinivere",
+      "type": "Aliado",
+      "cost": 0,
+      "image": "https://raw.githubusercontent.com/Saso-ip/MyL/refs/heads/main/Primer%20Bloque/Espada%20Sagrada/Reina%20Guinivere.webp",
+      "isHorizontal": false
+    }
+  },
+  "name": "Reina%20Guinivere",
+  "type": "Aliado",
+  "cost": 0,
+  "Espada Sagrada": "2"
+  }
+}
