@@ -21,7 +21,7 @@
         "startingHandSize": 7,
         "drawNewSelectedCards": true
       },
-      "newTurn": {-
+      "newTurn": {
         "drawOnStart": false,
         "sharedTurn": false
       },
@@ -96,7 +96,7 @@
           "isSymetricalForOpponents": false
         },
         "autoPlayFromHand": {
-          "Aliado": "Defensa",
+          "Aliado": "Defensa"
         },
         "autoPlayFromStack": {},
         "sectionsDict": {
