@@ -50,10 +50,6 @@
               },
               "content": [
                 {
-                  "section": "Cementerio",
-                  "style": false
-                },
-                {
                   "section": "Destierro",
                   "style": false
                 }
@@ -114,22 +110,6 @@
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
             "displayedTitle": "",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "Cementerio": {
-            "title": "Cementerio",
-            "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "END",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "Cementerio",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
