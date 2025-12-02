@@ -2,15 +2,11 @@
   "name": "Mitos",
   "menuBackgroundImage": "https://i.ibb.co/zVvkhS96/F3x-Rtyu-Xo-AAGE17.webp",
   "deckBuilding": {
-    "mainFilters": [
-      "color",
-      "type",
-      "cost"
-    ],
+    "mainFilters": [],
     "formats": [
       {
-        "title": "Classic",
-        "gameplay": "Classic"
+        "title": "Primera Era",
+        "gameplay": "Primera Era"
       }
     ]
   },
@@ -72,8 +68,8 @@
                 {
                   "section": "Roro",
                   "style": {
-                    "marginLeft": "-10vh",
-                    "width": "25vh"
+                    "marginLeft": "-15vh",
+                    "width": "30vh"
                   }
                 }
               ],
