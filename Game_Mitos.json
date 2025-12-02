@@ -64,11 +64,17 @@
               "content": [
                 {
                   "section": "Orop",
-                  "style": false
+                  "style": {
+                    "marginLeft": "0vh",
+                    "width": "15vh"
+                  }
                 },
                 {
                   "section": "Roro",
-                  "style": false
+                  "style": {
+                    "marginLeft": "-10vh",
+                    "width": "25vh"
+                  }
                 }
               ],
               "isSymetricalForOpponents": false
