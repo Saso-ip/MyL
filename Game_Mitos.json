@@ -21,7 +21,7 @@
         "startingHandSize": 7,
         "drawNewSelectedCards": true
       },
-      "newTurn": {
+      "newTurn": {-
         "drawOnStart": false,
         "sharedTurn": false
       },
@@ -96,7 +96,8 @@
           "isSymetricalForOpponents": false
         },
         "autoPlayFromHand": {
-          "Aliado": "Defensa"
+          "Aliado": "Defensa",
+          "Roro": "Orop"
         },
         "autoPlayFromStack": {},
         "sectionsDict": {
@@ -124,7 +125,7 @@
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
-            "displayedTitle": "",
+            "displayedTitle": "Oro pagado",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
@@ -140,7 +141,7 @@
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
-            "displayedTitle": "",
+            "displayedTitle": "Reserva de oro",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
