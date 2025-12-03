@@ -105,9 +105,12 @@
           "Roro"
         ],
         "autoPlayFromHand": {
-        "Aliado": "Defensa"
+          "Aliado": "Defensa",
+          "Oro Inicial": "Roro"
         },
-        "autoPlayFromStack": {},
+        "autoPlayFromStack": {
+          "Oro Inicial": "Roro"
+        },
         "sectionsDict": {
           "Destierro": {
             "title": "Destierro",
