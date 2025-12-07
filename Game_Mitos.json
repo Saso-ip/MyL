@@ -18,8 +18,8 @@
     "Classic": {
       "mulligan": {
         "info": "Hola",
-        "startingHandSize": 7,
-        "drawNewSelectedCards": true
+        "startingHandSize": 8,
+        "drawNewSelectedCards": false
       },
       "newTurn": {
         "drawOnStart": false,
